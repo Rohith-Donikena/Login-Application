@@ -1,0 +1,40 @@
+@charset "ISO-8859-1";
+
+body{
+    background-color: #16213E;
+}
+.container{
+    padding-left:40% ;
+    width: 25%;
+    text-align:center;
+}
+.mid{
+    background-color: #EEEEEE;
+    margin-top: 10em;
+}
+h1{
+    padding-top: 20px;
+}
+
+*{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+.cnt{
+    padding: 10px;
+}
+.cnt a:link{
+   
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+a:visited{
+    color: rgb(131, 162, 167);
+}
+input[type=text] ,input[type=password] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000ae;
+}
+
+

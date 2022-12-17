@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+*{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+body{
+    background-color:#C71585;
+}
+
+.con {
+	background-color: #d0fbc6;
+    margin: auto;
+    margin-top:12%;
+    width: 30%;
+    border: 3px solid #fff;
+    padding: 10px;
+}
+form{
+	text-align:center;
+}
+
+
+
+
+input[type=text] ,input[type=password],input[type=email] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000ae;
+}
+
+
